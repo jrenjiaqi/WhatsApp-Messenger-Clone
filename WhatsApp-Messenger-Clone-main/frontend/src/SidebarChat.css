@@ -1,0 +1,24 @@
+.sidebarChat {
+    /* Styles chatbox inside sidebar 
+     * and ensures pointer turns into cursor on hover */
+    display: flex;
+    padding: 20px;
+    cursor: pointer;
+    border-bottom: 1px solid #f6f6f6;
+}
+
+.sidebarChat:hover {
+    /* Gives color change on hover */
+    background-color: #ebebeb;
+}
+
+.sidebarChat__info > h2 {
+    /* Styles 'Room name' in sidebar chat box */
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.sidebarChat__info {
+    /* Styles the last message shown in the sidebar chat box */
+    margin-left: 15px;
+}

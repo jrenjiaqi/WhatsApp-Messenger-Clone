@@ -1,7 +1,7 @@
 # WhatsApp-Messenger-Clone
 
 ### Overview
-WhatsApp Messenger Clone Web Application built with MongoDB, Express.js, React, Node.js (MERN) stack, as part of a [coding tutorial](https://www.youtube.com/watch?v=pUxrDcITyjg&t=10819s&ab_channel=CleverProgrammer).
+WhatsApp Messenger Clone Web Application built with MongoDB, Express.js, React, Node.js (MERN) stack as part of a [coding tutorial](https://www.youtube.com/watch?v=pUxrDcITyjg&t=10819s&ab_channel=CleverProgrammer).
 
 The learning points were then used to develop a 'Whatsapp-like Widget' in my passion project to renovate [OurSGHeritage website](https://github.com/jrenjiaqi/OurSGHeritage-Govtech-Website-Clone).
 

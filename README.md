@@ -11,4 +11,4 @@ https://user-images.githubusercontent.com/74390368/147896179-b1ec78a2-c4ca-4e43-
 ### Architecture Overview
 ![WhatsApp-Clone-Architecture-Diagram](https://user-images.githubusercontent.com/74390368/147897361-7663e9f9-d332-4909-8a9b-ea83f317505b.png)
 
-- User authentication (Google SignIn) is achieved via Firebase. Pusher allows real-time message updates from MongoDB.
+- User authentication (Google SignIn) is achieved via Firebase. Pusher allows for real-time message updates from MongoDB.
